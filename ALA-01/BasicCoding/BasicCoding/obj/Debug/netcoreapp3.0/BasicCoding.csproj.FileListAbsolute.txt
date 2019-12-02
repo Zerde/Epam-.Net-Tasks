@@ -1,0 +1,11 @@
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.0\BasicCoding.exe
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.0\BasicCoding.deps.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.0\BasicCoding.runtimeconfig.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.0\BasicCoding.runtimeconfig.dev.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.0\BasicCoding.dll
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\bin\Debug\netcoreapp3.0\BasicCoding.pdb
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.0\BasicCoding.csprojAssemblyReference.cache
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.0\BasicCoding.AssemblyInfoInputs.cache
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.0\BasicCoding.AssemblyInfo.cs
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.0\BasicCoding.dll
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\BasicCoding\BasicCoding\obj\Debug\netcoreapp3.0\BasicCoding.pdb
