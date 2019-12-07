@@ -1,0 +1,11 @@
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\bin\Debug\netcoreapp3.0\CreatingTypes.exe
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\bin\Debug\netcoreapp3.0\CreatingTypes.deps.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\bin\Debug\netcoreapp3.0\CreatingTypes.runtimeconfig.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\bin\Debug\netcoreapp3.0\CreatingTypes.runtimeconfig.dev.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\bin\Debug\netcoreapp3.0\CreatingTypes.dll
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\bin\Debug\netcoreapp3.0\CreatingTypes.pdb
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\obj\Debug\netcoreapp3.0\CreatingTypes.csprojAssemblyReference.cache
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\obj\Debug\netcoreapp3.0\CreatingTypes.AssemblyInfoInputs.cache
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\obj\Debug\netcoreapp3.0\CreatingTypes.AssemblyInfo.cs
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\obj\Debug\netcoreapp3.0\CreatingTypes.dll
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\CreatingTypes\CreatingTypes\obj\Debug\netcoreapp3.0\CreatingTypes.pdb

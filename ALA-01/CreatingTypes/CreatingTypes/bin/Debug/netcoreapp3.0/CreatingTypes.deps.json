@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CreatingTypes/1.0.0": {
+        "runtime": {
+          "CreatingTypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreatingTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
