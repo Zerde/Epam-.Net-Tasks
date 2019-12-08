@@ -6,7 +6,7 @@ using System.Text;
 namespace MethodsInDetails
 {
     //class containing methods to calculate GCD 
-    class CalcGCD
+    public class CalcGCD
     {
         #region GCDEuclid
         /// <summary>

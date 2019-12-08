@@ -13,8 +13,8 @@ namespace MethodsInDetails
             Console.WriteLine(CalcGCD.GCDBinary(1071, 462));
             //IsNull
             int? a = 123;
-            int x = 0;
-            string? b = null;
+            //int x = 0;
+            string b = null;
             Console.WriteLine(a.IsNull());
             // Console.WriteLine(x.IsNull()); Error
             Console.WriteLine(b.IsNull());
