@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MethodsInDetails/1.0.0": {
+        "runtime": {
+          "MethodsInDetails.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodsInDetails/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

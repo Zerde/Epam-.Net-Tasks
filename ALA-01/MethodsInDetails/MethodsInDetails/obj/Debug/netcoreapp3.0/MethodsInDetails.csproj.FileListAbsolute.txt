@@ -1,0 +1,11 @@
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\obj\Debug\netcoreapp3.0\MethodsInDetails.csprojAssemblyReference.cache
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\obj\Debug\netcoreapp3.0\MethodsInDetails.AssemblyInfoInputs.cache
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\obj\Debug\netcoreapp3.0\MethodsInDetails.AssemblyInfo.cs
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\bin\Debug\netcoreapp3.0\MethodsInDetails.exe
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\bin\Debug\netcoreapp3.0\MethodsInDetails.deps.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\bin\Debug\netcoreapp3.0\MethodsInDetails.runtimeconfig.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\bin\Debug\netcoreapp3.0\MethodsInDetails.runtimeconfig.dev.json
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\bin\Debug\netcoreapp3.0\MethodsInDetails.dll
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\bin\Debug\netcoreapp3.0\MethodsInDetails.pdb
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\obj\Debug\netcoreapp3.0\MethodsInDetails.dll
+C:\Users\Zerde\Documents\epam.net\Epam-.Net-Tasks\ALA-01\MethodsInDetails\MethodsInDetails\obj\Debug\netcoreapp3.0\MethodsInDetails.pdb
